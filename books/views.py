@@ -61,6 +61,10 @@ class RatingsViewSet(viewsets.ModelViewSet):
 #     return Response({'img': upload})
 
 
+def vi(request):
+    return Response("asdfasdf")
+
+
 
 
 
